@@ -41,6 +41,10 @@ body {
 body .quick-links {
   background-color: #fff;
 }
+body .quick-links .social {
+  padding-left: 10px;
+  padding-bottom: 9px;
+}
 
 section {
   padding: 3rem 9%;
